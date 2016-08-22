@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby -wKU
-puts 'hello world';
+puts 'hello world - 郑飞';
