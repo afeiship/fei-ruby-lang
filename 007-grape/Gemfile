@@ -1,0 +1,7 @@
+# frozen_string_literal: true
+# A sample Gemfile
+source "https://gems.ruby-china.org"
+
+# gem "rails"
+
+gem 'grape', '0.17.0'

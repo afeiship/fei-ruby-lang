@@ -1,0 +1,7 @@
+# frozen_string_literal: true
+# A sample Gemfile
+source "https://ruby.taobao.org"
+
+# gem "rails"
+
+gem 'spidr', '0.6.0'
