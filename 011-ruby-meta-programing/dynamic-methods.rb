@@ -1,4 +1,5 @@
 class DynamicMethodsDemo
+    p 'hello'
     %w(hello hi say).each do |method|
         define_method method do
             p 'hello+++> #{$method}'
