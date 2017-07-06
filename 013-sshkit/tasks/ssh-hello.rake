@@ -3,7 +3,7 @@ require 'sshkit/dsl'
 include SSHKit::DSL
 
 
-SSHKit.config.output_verbosity = :info
+SSHKit.config.output_verbosity = :debug
 # # The default format is pretty, which outputs colored text
 # SSHKit.config.format = :pretty
 # # Text with no coloring
