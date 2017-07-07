@@ -18,9 +18,12 @@ mail = Mail.new do
   from 'afeidisk000@163.com'
   to '1290657123@qq.com'
   subject '这是邮件主题-163[AutoEmail]'
+
   body 'body:hello send mail way 2 :)'
-  # add_file '/Users/chenwei/Desktop/spritesheet.png'
+  # add_file '/Users/feizheng/github/fei-ruby-lang/014-mail/bd_logo1.png'
   # add_file :filename => 'spritesheet.png', :content => File.read('/Users/chenwei/Desktop/spritesheet.png')
 end
+
+
 
 mail.deliver!
