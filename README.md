@@ -1,4 +1,4 @@
-# fei-ruby-lang
+# ruby notes
 > My ruby learning notes.
 
 
