@@ -18,3 +18,4 @@ p ARGV
 
 ## resources
 - https://docs.ruby-lang.org/en/2.4.0/OptionParser.html
+- https://github.com/leejarvis/slop
